@@ -1,5 +1,7 @@
 """Functions for managing tasks."""
 
+# Editing in main branch (git)
+
 
 def add_task(tasks, title):
     tasks.append({"title": title, "completed": False})
