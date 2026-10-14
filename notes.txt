@@ -1,0 +1,4 @@
+Git practice notes
+
+Try making a small edit to README.md after your first commit.
+Then use git status to see what changed.
